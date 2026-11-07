@@ -1,0 +1,12 @@
+.DS_Store
+pulled-*
+node_modules/
+
+# Local-only theme port (rizo license forbids redistribution — see README).
+# Files stay on disk so the plugin keeps working; they are just not tracked.
+gui-experimental.cjs
+build.mjs
+rizo-theme.json
+LICENSE.rizo
+src/
+fonts/
